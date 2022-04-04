@@ -141,6 +141,11 @@ nav{
 
 }
 
+.icons{
+    height: 40px;
+    margin-top: 60px;
+}
+
 
 .item_skills{
     float: left;
@@ -174,5 +179,37 @@ nav{
 }
 
 
+.logo3 h2{
+    color: #263244;
+    font-size: 30px;
+    line-height: 45px;
+    text-align: center;
+    padding: 30px 0px 0px;
+}
+
+.logo3 p{ 
+    text-align: center;
+    }
+
+.screenshot{
+    margin: 10px 0 50px 0;
+    height: 700px;
+    
+}
+
+
+.logo4 h2{
+    color: #263244;
+    font-size: 30px;
+    line-height: 45px;
+    text-align: center;
+    padding: 50px 0px 0px;
+}
+
+.logo4 h3{
+   color: #263244;
+   font-size: 20px;
+   line-height: 60px; 
+}
 
 
