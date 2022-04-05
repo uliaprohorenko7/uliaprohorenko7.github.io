@@ -1,0 +1,287 @@
+bodi{
+    font-family: Arial, sans-serif;
+}
+
+
+nav{ 
+     width: 100%;
+     height: 60px;
+     background: #344051; 
+}
+
+.logo{
+    color: #fff;
+    font-size: 25px;
+    line-height: 60px;
+    padding-left: 320px;
+    float: left
+    }
+
+.menu{
+    float: left;
+    padding-left: 350px;
+    
+}
+
+.menu li{
+    float: left;
+    line-height: 60px;
+    color: #fff;
+    margin-right: 40px;
+    font-size: 12px;
+    text-transform: uppercase;
+    
+}
+
+.main{
+    width: 100%;
+    height: calc(100% - 60px);
+    background: url(../img/boy.png) 90% 100%/auto 85% no-repeat, url(../img/bg.jpg) center/cover no-repeat;
+    }
+
+
+.titl__conteiner{
+    float: left;
+    margin: 300px 0px 0px 280px;
+    color: #2c384a;
+    text-align: center; 
+    }
+
+
+.titl__conteiner h1{
+    font-size: 60px;
+    font-weight: bold;
+    }
+
+.titl__conteiner h4{
+    margin-top: 40px;
+    font-size: 22px;
+    color: #a4a9b2;
+    
+}
+
+.titl__conteiner input{
+    height: 40px;
+    text-align: center;
+    border: 2px solid #6d7682;
+    background: none;
+    border-radius: 5px;
+    color: #6d7682;
+    font-size: 13px;
+    margin: 50px 10px 0px 10px;
+    
+}
+
+
+.logo1 h2{
+    color: #263244;
+    font-size: 30px;
+    line-height: 45px;
+    text-align: center;
+    margin: 108px 0px 0px 
+    
+}
+
+.cherta{
+    display: block;
+    margin: 20px auto 50px;
+}
+
+.foto{
+    display: block;
+    margin: 70px auto 50px;
+}
+
+.logo1 p{
+    height: 50px;
+    margin: 10px 500px;
+    text-align: left;
+}
+
+.logo1 input{
+    height: 40px;
+    text-align: center;
+    border: 3px solid #6d7682;
+    background: none;
+    border-radius: 10px;
+    color: #6d7682;
+    font-size: 13px;
+    padding: 0px 10px;
+    display: block;
+    margin-bottom: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    background: url(../img/skach.png) no-repeat 15px 8px;
+
+}
+
+
+
+.logo2{
+    width: 100%;
+    background: url(../img/chtoymeu.jpg) no-repeat;
+    height: 600px;
+}
+
+
+
+.logo2 h2{
+    color: #263244;
+    font-size: 30px;
+    line-height: 45px;
+    text-align: center;
+    padding: 100px 0px 0px;
+}
+        
+.logo2 h4{ 
+     color: #e48304;
+     font-size: 20px;
+     font-style: inherit;
+     font-weight: 400;
+
+}
+
+.icons{
+    height: 40px;
+    margin-top: 60px;
+}
+
+
+.item_skills{
+    float: left;
+    width: 300px;
+    text-align:center;
+    margin-left: 150px;
+   
+}   
+
+.item_skills1{
+    float: left;
+    width: 300px;
+    text-align:center;
+   
+   
+}
+
+.item_skills2{
+    float: left;
+    width: 300px;
+    text-align:center;
+   
+    
+}
+
+.item_skills3{
+    float: left;
+    width: 300px;
+    text-align:center;
+   
+}
+
+
+.logo3 h2{
+    color: #263244;
+    font-size: 30px;
+    line-height: 45px;
+    text-align: center;
+    padding: 30px 0px 0px;
+}
+
+.logo3 p{ 
+    text-align: center;
+    }
+
+.screenshot{
+    padding:50px 100px 10px 100px;
+    height: 550px;
+    
+}
+
+.names{
+    float:left;
+    width: 600px;
+} 
+
+.names h3{
+    color: #263244;
+    font-size: 20px;
+    line-height: 45px;
+    padding-left: 260px;
+}
+.names h4{
+    padding-left: 260px;
+    
+}
+ 
+.names a{
+    padding-left: 260px;
+}
+
+.names input{
+    height: 40px;
+    border: 4px solid #63b5ae;
+    text-align: center;
+    background: #63b5ae;
+    border-radius: 10px;
+    color: #ffffff;
+    margin-left: 260px;
+    margin-top: 20px;
+}
+
+
+.title h3{
+    color: #263244;
+    font-size: 20px;
+    line-height: 45px;
+    padding-left: 260px;
+}
+
+.title{
+     padding-left: 260px;
+     
+}
+
+.title p{
+    padding-left: 300px;
+}
+
+
+.logo4 h2{
+    color: #263244;
+    font-size: 30px;
+    line-height: 45px;
+    text-align: center;
+    padding: 200px 0px 0px;
+}
+
+.logo4 h3{
+   color: #263244;
+   font-size: 20px;
+   line-height: 60px; 
+   padding-left: 400px;
+}
+
+
+.logo4 select{
+    height: 40px;
+    border: 5px solid #eeeeee;
+    text-align:left;
+    background: #eeeeee;
+    border-radius: 10px;
+    color: #263244;
+    margin-left: 400px;
+    margin-top: 5px;
+    width: 700px;
+}
+
+.logo4 hr{
+    width: 700px;
+    font-size: 20px;
+    color:black;
+    
+}
+  
+logo4 div{
+   margin-left: 400px; 
+}
+
