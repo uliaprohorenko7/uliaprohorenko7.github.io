@@ -200,7 +200,7 @@ nav{
 .nemes{
     float:left;
     width: 400px;
-}
+} 
 
 .names h3{
     color: #263244;
@@ -224,7 +224,7 @@ nav{
     background: #63b5ae;
     border-radius: 10px;
     color: #ffffff;
-    
+    margin-left: 260px;
 }
 
 
