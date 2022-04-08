@@ -395,15 +395,45 @@ nav{
 }
 
 .logo7 {
-    width: 100%;
     background: url(../img/contact%20fon.jpg) no-repeat;
+    background-size: 100% 100%;
 }
 
 .logo7 h2{
-    color: #263244;
+    color: #eeeeee;
     font-size: 30px;
     line-height: 45px;
     text-align: center;
     padding: 100px 0px 0px;
 }
 
+.logo7 p{
+    text-align: center;
+    
+}
+
+.icons2{
+    height: 15px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+.adresse{
+    float:left
+    width: 200px;
+    text-align:center;
+    
+}
+
+.email{
+   float: left;
+    width: 200px;
+    text-align:center; 
+}
+
+.number{
+    float: left;
+    width: 200px;
+    text-align:center;
+    
+}
