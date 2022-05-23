@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'Calibri';
+    src: url('Calibri.woff2') format('woff2'),
+        url('Calibri.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: fallback;
+}
+
+@font-face {
+    font-family: 'Bahnschrift SemiBold';
+    src: url('KeplerStd-SemiboldScn.woff2') format('woff2'),
+        url('KeplerStd-SemiboldScn.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: fallback;
+}
+
